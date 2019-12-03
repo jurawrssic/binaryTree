@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1503961301 source:e:\usuários\julia\faculdade\2017\aed\binarietree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"binarieTree.c"
+
+1503961311 e:\usuários\julia\faculdade\2017\aed\binarietree\binarietree.c
+	<stdio.h>
+	<stdlib.h>
+	"binarieTree.h"
+
+1503961047 e:\usuários\julia\faculdade\2017\aed\binarietree\binarietree.h
+
